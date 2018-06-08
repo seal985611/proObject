@@ -1,0 +1,3 @@
+[submodule "pod-a"]
+	path = pod-a
+	url = https://github.com/seal985611/proObject
